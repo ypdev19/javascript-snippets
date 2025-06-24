@@ -1,11 +1,13 @@
 # Javascript Code Snippets
 
-Here you will find a collection of useful JavaScript code snippets for common tasks, string manipulation, date utilities, array helpers, validations, and more.
+Here you will find a collection of *useful JavaScript code snippets for common tasks, string manipulation, date utilities, array helpers, validations, and more.*
 
 Each snippet is designed to be simple, reusable, and easy to understand.
 
 ### Strings
 - [Title Case](./snippets/strings/title-case.js)
+
+*Repo still under construction, more snippets to follow!*
 
 ## 🚀 Learn More About JavaScript
 

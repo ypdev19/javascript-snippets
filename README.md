@@ -1,27 +1,26 @@
 # Javascript Code Anippets
 
-Here you will find a collection of useful JavaScript code snippets for common tasks — string manipulation, date utilities, array helpers, validations, and more.
+Here you will find a collection of useful JavaScript code snippets for common tasks, string manipulation, date utilities, array helpers, validations, and more.
 
 Each snippet is designed to be simple, reusable, and easy to understand.
 
 ### Strings
-- [String title case](./snippets/strings.js#L10)
-
-- [`truncate(str, maxLength)`](./snippets/strings.js#L25)
-
-> ⚠️ Line numbers in links may change — feel free to update them as the repo evolves.
+- [Title Case](./snippets/strings/title-case.js)
 
 ## 🚀 Learn More About JavaScript
 
-Check out more hands-on JavaScript tips and tutorials on my blog:  
-👉 [codeqazone.com/categories/javascript](https://codeqazone.com/categories/javascript)
+Check out more hands-on JavaScript tips and tutorials on my blog 👉 [Code & QA Zone](https://codeqazone.com/categories/javascript)
 
 ---
 
-## 🤝 Contributing
+## 📝 Contributing & Bug Report
 
-Feel free to submit pull requests with new snippets, improvements, or bug fixes.
+If you have suggestions for new snippets or improvements, please open a **Pull Request**.  This will help me to review and merge contributions faster.
 
+If you encounter a bug in any snippet, feel free to open an **Issue** describing the problem clearly. 
+Thank you for helping make this repo better! 🙌 
+
+---
 
 ## 📄 License
 

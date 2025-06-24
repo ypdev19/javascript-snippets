@@ -17,8 +17,7 @@ Check out more hands-on JavaScript tips and tutorials on my blog 👉 [Code & QA
 
 If you have suggestions for new snippets or improvements, please open a [Pull Request](./github/PULL_REQUEST_TEMPLATE.md). This will help me to review and merge contributions faster. Read [CONTRIBUTING.md](./github/CONTRIBUTING.md) for more details please.
 
-If you encounter a bug in any snippet, feel free to open an **Issue** describing the problem clearly. 
-Thank you for helping make this repo better! 🙌 
+If you encounter a bug in any snippet, feel free to open an [Issue]( https://github.com/ypdev19/javascript-snippets/issues) describing the problem clearly. Thank you for helping make this repo better! 🙌 
 
 ## 📄 License
 

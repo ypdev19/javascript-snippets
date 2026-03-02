@@ -11,7 +11,7 @@ Each snippet is designed to be simple, reusable, and easy to understand.
 
 ## 🚀 Learn More About JavaScript
 
-Learn about JavaScript essentials like [Object Destructuring](https://www.codeqazone.com/javascript-object-destructuring/), tips and tutorials on my blog 👉 [Code & QA Zone](https://codeqazone.com/categories/javascript)
+Learn about JavaScript essentials like [Object Destructuring](https://www.codeqazone.com/javascript-object-destructuring/), [Array Methods: Full Guide With Clear Examples](https://www.codeqazone.com/complete-javascript-array-methods-guide/), tips, guides and tutorials on my blog 👉 [Code & QA Zone](https://codeqazone.com/categories/javascript)
 
 ## 📝 Contributing & Bug Report
 
